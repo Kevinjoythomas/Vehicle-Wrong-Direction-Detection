@@ -3,7 +3,7 @@ This project aims to detect vehicles moving in the wrong direction on roads usin
 
 ### 🛠️ Features
 Object Detection: Uses YOLOv8 to detect vehicles in real-time.
-Vehicle Tracking: Implements Deep SORT/ByteTrack for consistent tracking across frames.
+Vehicle Tracking: Implements Deep SORT for consistent tracking across frames.
 Wrong Direction Detection: Compares vehicle trajectories with predefined allowed directions.
 Alert System: Logs violations and stores video snippets for review.
 Scalable Deployment: Can be integrated into edge devices (like Raspberry Pi) or cloud systems.
