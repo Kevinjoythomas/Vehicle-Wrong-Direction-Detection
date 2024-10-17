@@ -1,6 +1,7 @@
 ## 🚗  Vehicle Wrong Direction Detection
 This project aims to detect vehicles moving in the wrong direction on roads using Computer Vision techniques. It leverages object detection models and tracking algorithms to monitor vehicle movements and raise alerts when a vehicle violates the designated direction of traffic. This system can be deployed on highways, intersections, and restricted zones to improve road safety and traffic management.
 
+![](https://github.com/Kevinjoythomas/Vehicle-Wrong-Direction-Detection/blob/main/img.png)
 ### 🛠️ Features
 Object Detection: Uses YOLOv8 to detect vehicles in real-time.
 Vehicle Tracking: Implements Deep SORT for consistent tracking across frames.
